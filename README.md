@@ -1,4 +1,4 @@
-## muritz
+# muritz
 
 **muritz** is directed graph alignment based on node-specific motif-role profiles.
 
